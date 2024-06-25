@@ -1,0 +1,301 @@
+{
+    "Q1": {
+        "levels": {
+            "1": [
+                {
+                    "question": "3 + 4?",
+                    "answer": "7",
+                    "hint": "7"
+                },
+                {
+                    "question": "7 + 7?",
+                    "answer": "14",
+                    "hint": "14"
+                },
+                {
+                    "question": "6 + 5?",
+                    "answer": "11",
+                    "hint": "11"
+                },
+                {
+                    "question": "12 + 8?",
+                    "answer": "20",
+                    "hint": "20"
+                }
+            ],
+            "2": [
+                {
+                    "question": "15 - 5?",
+                    "answer": "10",
+                    "hint": "10"
+                },
+                {
+                    "question": "23 - 8?",
+                    "answer": "15",
+                    "hint": "15"
+                },
+                {
+                    "question": "40 - 30?",
+                    "answer": "10",
+                    "hint": "10"
+                },
+                {
+                    "question": "42 - 19?",
+                    "answer": "23",
+                    "hint": "23"
+                }
+            ],
+            "3": [
+                {
+                    "question": "6 * 6?",
+                    "answer": "36",
+                    "hint": "36"
+                },
+                {
+                    "question": "4 * 6?",
+                    "answer": "24",
+                    "hint": "24"
+                },
+                {
+                    "question": "2 * 9?",
+                    "answer": "18",
+                    "hint": "18"
+                },
+                {
+                    "question": "9 * 8?",
+                    "answer": "72",
+                    "hint": "72"
+                }
+            ],
+            "4": [
+                {
+                    "question": "55 / 11?",
+                    "answer": "5",
+                    "hint": "5"
+                },
+                {
+                    "question": "12 / 4?",
+                    "answer": "3",
+                    "hint": "3"
+                },
+                {
+                    "question": "42 / 7?",
+                    "answer": "6",
+                    "hint": "6"
+                },
+                {
+                    "question": "22 / 2?",
+                    "answer": "11",
+                    "hint": "11"
+                }
+            ],
+            "Test": [
+                {
+                    "question": "4 * 6?",
+                    "answer": "24",
+                    "hint": "24"
+                },
+                {
+                    "question": "42 / 7?",
+                    "answer": "6",
+                    "hint": "6"
+                },
+                {
+                    "question": "2 * 9?",
+                    "answer": "18",
+                    "hint": "18"
+                },
+                {
+                    "question": "40 - 30?",
+                    "answer": "10",
+                    "hint": "10"
+                },
+                {
+                    "question": "12 / 4?",
+                    "answer": "3",
+                    "hint": "3"
+                },
+                {
+                    "question": "7 + 7?",
+                    "answer": "14",
+                    "hint": "14"
+                },
+                {
+                    "question": "42 - 19?",
+                    "answer": "23",
+                    "hint": "23"
+                },
+                {
+                    "question": "15 - 5?",
+                    "answer": "10",
+                    "hint": "10"
+                },
+                {
+                    "question": "6 + 5?",
+                    "answer": "11",
+                    "hint": "11"
+                },
+                {
+                    "question": "3 + 4?",
+                    "answer": "7",
+                    "hint": "7"
+                }
+            ]
+        }
+    },
+    "Q2": {
+        "levels": {
+            "1": [
+                {
+                    "question": "5 + 3?",
+                    "answer": "8",
+                    "hint": "8"
+                },
+                {
+                    "question": "8 + 6?",
+                    "answer": "14",
+                    "hint": "14"
+                },
+                {
+                    "question": "9 + 4?",
+                    "answer": "13",
+                    "hint": "13"
+                },
+                {
+                    "question": "11 + 9?",
+                    "answer": "20",
+                    "hint": "20"
+                }
+            ],
+            "2": [
+                {
+                    "question": "18 - 9?",
+                    "answer": "9",
+                    "hint": "9"
+                },
+                {
+                    "question": "25 - 10?",
+                    "answer": "15",
+                    "hint": "15"
+                },
+                {
+                    "question": "50 - 35?",
+                    "answer": "15",
+                    "hint": "15"
+                },
+                {
+                    "question": "37 - 14?",
+                    "answer": "23",
+                    "hint": "23"
+                }
+            ],
+            "3": [
+                {
+                    "question": "5 * 5?",
+                    "answer": "25",
+                    "hint": "25"
+                },
+                {
+                    "question": "7 * 4?",
+                    "answer": "28",
+                    "hint": "28"
+                },
+                {
+                    "question": "3 * 7?",
+                    "answer": "21",
+                    "hint": "21"
+                },
+                {
+                    "question": "8 * 6?",
+                    "answer": "48",
+                    "hint": "48"
+                }
+            ],
+            "4": [
+                {
+                    "question": "49 / 7?",
+                    "answer": "7",
+                    "hint": "7"
+                },
+                {
+                    "question": "24 / 8?",
+                    "answer": "3",
+                    "hint": "3"
+                },
+                {
+                    "question": "63 / 9?",
+                    "answer": "7",
+                    "hint": "7"
+                },
+                {
+                    "question": "36 / 6?",
+                    "answer": "6",
+                    "hint": "6"
+                }
+            ],
+            "Test": [
+                {
+                    "question": "8 * 6?",
+                    "answer": "48",
+                    "hint": "48"
+                },
+                {
+                    "question": "36 / 6?",
+                    "answer": "6",
+                    "hint": "6"
+                },
+                {
+                    "question": "3 * 7?",
+                    "answer": "21",
+                    "hint": "21"
+                },
+                {
+                    "question": "50 - 35?",
+                    "answer": "15",
+                    "hint": "15"
+                },
+                {
+                    "question": "24 / 8?",
+                    "answer": "3",
+                    "hint": "3"
+                },
+                {
+                    "question": "8 + 6?",
+                    "answer": "14",
+                    "hint": "14"
+                },
+                {
+                    "question": "37 - 14?",
+                    "answer": "23",
+                    "hint": "23"
+                },
+                {
+                    "question": "18 - 9?",
+                    "answer": "9",
+                    "hint": "9"
+                },
+                {
+                    "question": "9 + 4?",
+                    "answer": "13",
+                    "hint": "13"
+                },
+                {
+                    "question": "5 + 3?",
+                    "answer": "8",
+                    "hint": "8"
+                }
+            ]
+        }
+    },
+    "Q3": {
+        "levels": {
+            "1": [
+                {
+                    "question": "What is 8 + 2?",
+                    "answer": "10",
+                    "hint": "How many fingers do you have?"
+                }
+            ]
+        }
+    }
+}

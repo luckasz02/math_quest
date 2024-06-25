@@ -1,0 +1,38 @@
+[
+    {
+        "id": "#1",
+        "name": "Dumitru Luca",
+        "progress": [
+            {
+                "quiz_name": "Q1",
+                "total_score": 16,
+                "test_score": 10,
+                "time_taken": 14.844479,
+                "date": "2024-06-25 15:53:18"
+            }
+        ]
+    },
+    {
+        "id": "#2",
+        "name": "Dumitru Sonia",
+        "progress": []
+    },
+    {
+        "id": "#3",
+        "name": "Dobondi David",
+        "progress": [
+            {
+                "quiz_name": "Q1",
+                "total_score": 16,
+                "test_score": 10,
+                "time_taken": 12.181943,
+                "date": "2024-06-25 16:01:05"
+            }
+        ]
+    },
+    {
+        "id": "#4",
+        "name": "Draghici Denis",
+        "progress": []
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "#1",
+        "name": "Dana Dumitru",
+        "children_ids": [
+            "#1"
+        ]
+    },
+    {
+        "id": "#3",
+        "name": "Dobondi Lazlo",
+        "children_ids": [
+            "#3"
+        ]
+    }
+]
